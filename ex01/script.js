@@ -31,4 +31,4 @@ function calculateGrade(score){
   console.log( "age:22 and ticket is : false "+ checkAccess (22 , false));
   console.log("your grade is: 99 "+ calculateGrade(99));
   console.log("your grade is : 50 "+ calculateGrade(50));
-    console.log("your grade is : f"+ calculateGrade(f));
+    console.log("your grade is : f "+ calculateGrade( "f "));
